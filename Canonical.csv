@@ -1,0 +1,17 @@
+Country,Indicator,Crop,Year,Value
+Ethiopia,production,maize,2015,1
+Ethiopia,production,wheat,2015,2
+Ethiopia,production,maize,2016,3
+Ethiopia,production,wheat,2016,4
+Ethiopia,area,maize,2015,5
+Ethiopia,area,wheat,2015,6
+Ethiopia,area,maize,2016,7
+Ethiopia,area,wheat,2016,8
+Somalia,production,maize,2015,9
+Somalia,production,wheat,2015,10
+Somalia,production,maize,2016,11
+Somalia,production,wheat,2016,12
+Somalia,area,maize,2015,13
+Somalia,area,wheat,2015,14
+Somalia,area,maize,2016,15
+Somalia,area,wheat,2016,16
